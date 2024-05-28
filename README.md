@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anshika Yadav
+- 👀 I’m interested in art, design, etc.
+- 🌱 I’m currently learning python
+- 📫 How to reach me `anshikaydv2562@gmail.com`
+- 😄 Pronouns: she/her
